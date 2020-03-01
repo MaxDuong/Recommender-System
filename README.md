@@ -37,8 +37,8 @@
 - Use ALS to train large dataset with Spark library
 
 ### Real World Challenges of Recommender System
-1. Cold-start Problem
-2. Stoplist
-3. Outliers
-4. Fraud of Clickstream
-5. International Concern
+- Cold-start Problem
+- Stoplist
+- Outliers
+- Fraud of Clickstream
+- International Concern
