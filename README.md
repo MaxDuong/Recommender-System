@@ -1,4 +1,5 @@
 # Recommender-System
+All files are taken from the Udemy course, "Building Recommender Systems with Machine Learning and AI", by Sundog Education, Frank Kane.
 
 ## Summary
 - Understand content-based filtering, user-based and item-based collaborative filtering to recommend items to users.
